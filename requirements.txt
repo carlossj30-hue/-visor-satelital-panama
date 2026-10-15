@@ -1,0 +1,8 @@
+streamlit
+pystac-client
+rasterio
+matplotlib
+numpy
+pandas
+requests
+skyfield
